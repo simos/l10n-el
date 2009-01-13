@@ -6,7 +6,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mousetweaks 2.21.92\n"
+"Project-Id-Version: mousetweaks 2.21.93\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-02-04 18:46+0000\n"
 "PO-Revision-Date: 2008-02-13 20:28+0200\n"
